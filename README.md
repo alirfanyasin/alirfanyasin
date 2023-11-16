@@ -14,6 +14,7 @@
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.eudeka.id/wp-content/uploads/sites/8/flutter-logo-sharing-1.png" alt="tailwind" width="40" height="40"/> </a>
   </a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="dart" width="40" height="40"/> </a>
+<a href="https://netbeans.apache.org/front/main/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" alt="netbeans" width="40" height="40"/> </a>
 </p>
 
 <hr>
