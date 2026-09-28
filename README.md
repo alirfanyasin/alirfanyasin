@@ -22,7 +22,7 @@
 
 ```javascript
 const irfanYasin = {
-  name        : "Ali Irfan Yasin",
+  name        : "Irfan Yasin",
   location    : "Indonesia 🇮🇩",
   roles       : ["Full-Stack Developer", "Mobile Developer", "ML Enthusiast"],
   languages   : ["PHP", "JavaScript", "Python", "Java", "C", "C++", "Dart"],
